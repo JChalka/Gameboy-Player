@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-05-04T02:23:46Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.99,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "Gameboy Player"
+        },
+        "Owner": "Joseph Chalker <joey12495@hotmail.com>",
+        "Size": {
+            "X": 113.4618,
+            "Y": 95.3135
+        }
+    }
+}
